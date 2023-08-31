@@ -19,6 +19,4 @@ tqdm==4.66.1
 urllib3==2.0.4
 vk-api==11.9.9
 yarl==1.9.2
-
-# TODO
 transformers~=4.32.1
