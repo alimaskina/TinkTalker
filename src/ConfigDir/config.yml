@@ -1,2 +1,4 @@
 VIEW:
   VIEW_TYPE: 'telegram_bot'
+
+URL: 'http://80.76.60.214:5000/answer'
