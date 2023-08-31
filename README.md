@@ -5,7 +5,7 @@
 
 ## Запуск приложения
 
-`git clone https://github.com/EkaterinaAlimaskina/TinkTalker.git`  
+`git clone https://github.com/alimaskina/TinkTalker.git`  
 `cd TinkTalker`  
 `docker build --env TG_TOKEN=<токен вашего телеграм бота> tt_bot .`  
 `docker run -d tt_bot`
