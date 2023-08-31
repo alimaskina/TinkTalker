@@ -24,3 +24,7 @@ class Config:
     def get_tg_token(self):
         """Геттер токена для телеграмм бота."""
         return self._instance.__tgtoken__
+
+    def get_url(self):
+        """Геттер url для модели."""
+        return self._instance.__dict__['URL']
